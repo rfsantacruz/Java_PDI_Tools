@@ -8,7 +8,7 @@ import javax.imageio.ImageIO;
 
 public class Util {
 
-	public static String caminho = "C:/Documents and Settings/Owner.YOUR-27405A18B6/My Documents/uast/minicurso_pi/imagens/";
+	public static String caminho = "";
 	
 	public static String formatoJPG = ".jpg";
 	
