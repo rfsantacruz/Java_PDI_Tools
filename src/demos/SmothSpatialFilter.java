@@ -3,7 +3,7 @@ package demos;
 import GenericClass.Util;
 import ProcessorPack.ImageProcessor;
 
-public class smothSpatialFilter {
+public class SmothSpatialFilter {
 
 	/**
 	 * @param args
