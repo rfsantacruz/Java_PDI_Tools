@@ -10,7 +10,7 @@ public class Teste {
 	 */
 	public static void main(String[] args) {
 		try{
-			String inputPath = "C:\\Users\\Rodrigo Santa Cruz\\Documents\\My Dropbox\\UPE\\8º periodo\\PDI\\lista-1\\Respostas1\\figura4-red.jpg";
+			String inputPath = "C:\\Users\\Rodrigo Santa Cruz\\Documents\\UPE\\8º periodo\\PDI\\lista-1\\Respostas1\\figura4-red.jpg";
 			String outPath = "C:\\Users\\Rodrigo Santa Cruz\\Documents\\My Dropbox\\UPE\\8º periodo\\PDI\\lista-1\\Respostas1\\figura4red.jpg";
 			
 			double[][] source = Util.lerImagem(inputPath);						
